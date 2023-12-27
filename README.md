@@ -8,7 +8,7 @@
   	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
       <div align="right">
         <h4> Studing... </h4>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+        <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> -->
         <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> -->
         <img src="http://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">
       </div> 
@@ -31,6 +31,10 @@
 
  <h3>🩶 Git Stats 🩶</h3>
  <img src="https://github-readme-stats.vercel.app/api?username=shdudtj&show_icons=true">
+
+<br>
+  <!-- <h3>🩶 Solved 🩶</h3>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shdudtj902)](https://solved.ac/shdudtj902/) -->
 
 <br>
 <br>
