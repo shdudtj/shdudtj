@@ -23,6 +23,7 @@
   
 </div>
 
+<div align="center">
   <h3>🩶 Most Used Languages 🩶</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shdudtj&layout=compact">
   
@@ -30,6 +31,8 @@
 
  <h3>🩶 Git Stats 🩶</h3>
  <img src="https://github-readme-stats.vercel.app/api?username=shdudtj&show_icons=true">
+
+ </div>
 
 <br>
   <!-- <h3>🩶 Solved 🩶</h3>
