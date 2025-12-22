@@ -4,7 +4,7 @@
 <h3> - tool : Python </h3>
 
 <h2> ## Focus </h2>
-<h3> - Facotr Investing </h3>
+<h3> - Factor Investing </h3>
 <h3> - Time Series Analysis </h3>
 <h3> - Risk Management </h3>
 
