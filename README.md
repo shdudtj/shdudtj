@@ -1,5 +1,6 @@
 <h2> # About Me </h2>
-<h3> - Economics & Finance major </h3>
+<h3> - Medical Software Development major (graduate)
+<h3> - Economics & Finance major (Transfer, Junior ~) </h3>
 <h3> - Interested in Quantitative Finance & Investment Analysis </h3>
 <h3> - tool : Python </h3>
 
