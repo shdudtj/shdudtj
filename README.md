@@ -1,8 +1,9 @@
-# Quant
+# Quant | Derivative Pricing & Risk Management
+
 
 I am a quantitative finance aspirant with a background in software development and economics.
-My interests lie in mathematical modeling, probability theory, and data-driven financial analysis.
-I aim to bridge rigorous mathematics with practical financial applications.
+My interests lie in mathematical modeling and probability theory for derivative pricing and risk management.
+I focus on understanding and quantifying financial risk through stochastic models and numerical methods.
 
 ---
 
@@ -23,20 +24,7 @@ I aim to bridge rigorous mathematics with practical financial applications.
 ---
 
 ## Selected Projects
-- **Option Pricing via Monte Carlo**
-  - Implemented Black-Scholes pricing and Monte Carlo simulation
-  - Applied variance reduction techniques
-  - [Repository Link]
 
-- **Portfolio Optimization**
-  - Constructed Mean-Variance and CVaR optimization models
-  - Backtested strategies on historical market data
-  - [Repository Link]
-
-- **Time Series Volatility Modeling**
-  - Implemented GARCH-type models for volatility estimation
-  - Analyzed financial return series
-  - [Repository Link]
 
 ---
 
