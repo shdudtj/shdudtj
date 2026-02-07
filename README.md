@@ -50,6 +50,18 @@ Preparing for graduate study in mathematics with a focus on probability and stoc
 
 ---
 
+## Education
+- **A.A.S. in Medical Software Development**, DNHU
+  - Mar 2023 – Feb 2026  
+  - GPA: 4.227 / 4.50  
+  - Focus on programming and data analysis
+
+- **B.A. in Economics and Finance**, KNU  
+  - Transferred student (Junior year)  
+  - Mar 2026 – Present
+
+---
+
 ## Current Focus
 - FRM certification (in progress)
 
